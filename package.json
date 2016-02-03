@@ -1,0 +1,28 @@
+{
+  "name": "white-belt",
+  "version": "1.0.0",
+  "description": "- [First Stripe](https://github.com/ohall/white-belt/blob/master/first.md)  - [Second Stripe](https://github.com/ohall/white-belt/blob/master/second.md)  - [Third Stripe](https://github.com/ohall/white-belt/blob/master/third.md)  - [Fourth Stripe](https://github.com/ohall/white-belt/blob/master/fourth.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "home": "node node_modules/markdown-to-html/bin/markdown README.md > index.html",
+    "first": "node node_modules/markdown-to-html/bin/markdown first.md > first.html",
+    "second": "node node_modules/markdown-to-html/bin/markdown first.md > second.html",
+    "third": "node node_modules/markdown-to-html/bin/markdown first.md > third.html",
+    "fourth": "node node_modules/markdown-to-html/bin/markdown first.md > fourth.html",
+    "parse": "npm run home; npm run first; npm run second; npm run third; npm run fourth;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/white-belt.git"
+  },
+  "author": "Oakley Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/white-belt/issues"
+  },
+  "homepage": "https://github.com/ohall/white-belt#readme",
+  "dependencies": {
+    "markdown-to-html": "0.0.11"
+  }
+}

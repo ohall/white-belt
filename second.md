@@ -32,4 +32,5 @@ __While on Bottom__
 ### BODY MOVEMENT
  - 4 point Base 
 
-Relaxing, countering, fluidity and sequencing are important elements of Jiu-Jitsu. These should be focused on during free sparring. __Be prepared to demonstrate 1st Stripe Techniques for test.__
+Relaxing, countering, fluidity and sequencing are important elements of Jiu-Jitsu. These should be focused on during free sparring. 
+__Be prepared to demonstrate 1st Stripe Techniques for test.__

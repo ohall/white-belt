@@ -31,4 +31,5 @@ __While on Bottom__
 ### SELF DEFENSE/VALE TUDO
  - Defend Standing and Ground Guillotine with Escape 
 
-Congratulations! Upon recieving the 3rd stripe on your white belt, you are now qualified to attend the "Advanced BJJ" classes! __Be prepared to demonstrate 1st and 2nd Stripe Techniques for test.
+Congratulations! Upon receiving the 3rd stripe on your white belt, you are now qualified to attend the "Advanced BJJ" classes! 
+__Be prepared to demonstrate 1st and 2nd Stripe Techniques for test.__

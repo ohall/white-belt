@@ -36,8 +36,9 @@ __While on Bottom__
  
 Relaxing and calm breathing should __ALWAYS__ be focused on during free sparring.  Techniques should never be forced!
 
-STRIPE SHEETS SHOULD NOT BE LEARNED THE DAY BEFORE TAKING THE TEST. THEY SHOULD BE STUDIED AT LEASE ONCE PER WEEK FROM THE START OF TRAINING. THE TECHNIQUES SHOULD ALWAYS BE APPLIED TO LIVE ROLLING.
+STRIPE SHEETS SHOULD NOT BE LEARNED THE DAY BEFORE TAKING THE TEST. THEY SHOULD BE STUDIED AT LEASE ONCE PER WEEK FROM THE START OF TRAINING. 
+THE TECHNIQUES SHOULD ALWAYS BE APPLIED TO LIVE ROLLING.
 
 RECOMMENDED READING
-[Brazilian Jiu-Jitsu Theory & Technique]() by Royler Gracie & Renzo Gracie
-[Brazilian Jiu-Jitsu Self Defense Techniques]() by Royce Gracie & Charles Gracie
+[Brazilian Jiu-Jitsu Theory & Technique](http://amzn.to/23JpceX) by Royler Gracie & Renzo Gracie
+[Brazilian Jiu-Jitsu Self Defense Techniques](http://amzn.to/1ULsgRF) by Royce Gracie & Charles Gracie
