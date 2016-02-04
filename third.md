@@ -5,6 +5,7 @@
  - Sleeve Choke
 __Rear Mount__
  - Basic Label Choke from Rear Mount
+
 #### While on Bottom
  - Combination of Upa and Elbow Escape
 
@@ -17,6 +18,7 @@ __Rear Mount__
 ### GUARD 
 #### While on Top
  - Pinning Leg Pass When Legs are Open
+
 #### While on Bottom
  - Closed Guard Kimura
  - Chest on Chest Sweep and Guillotine (also as a combination)

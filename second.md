@@ -4,6 +4,7 @@
  - Defend Mount (Swimming hands, hooking head... etc)
  - Sleeve Choke
  - Key Lock Submission
+
 #### While on Bottom
  - Elbow/Knee Escape
 
@@ -11,6 +12,7 @@
 ### SIDE CONTROL
 #### While on Top
  - Positions 3 and 4 (stay TIGHT and HEAVY) w/basic "Paper Cutter" Lapel Choke Submission
+
 #### While on Bottom
  - Belly Down Escape (don't give up your back!)
 
@@ -19,6 +21,7 @@
 #### While on Top
  - Knee up defense to avoid closed guard
  - Knee Across Pass
+
 #### While on Bottom
  - "Brazilian Legs" Open Guard Defense
  - Basic Cross Armlock (Legs tight to back, opponents elbow in stomach)

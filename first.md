@@ -2,6 +2,7 @@
 ### MOUNT
 #### While on Top
  - Vale Tudo Mount (Street fight, NHB Scenario)
+
 #### While on Bottom
  - Defense Posture (elbows on knees, head glued to floor, hands in "praying" position)
  - Upa Escape
@@ -10,6 +11,7 @@
 #### While on Top
  - Position 1 and 2 w/ Key Lock Submission
  - Body Weight Drill 
+
 #### While on Bottom
  - Defense Posture (elbow on flooe on opponent side protecting head, far arm tight to body, "Sensitive" knee)
  - Elbow Knee Escape (bump hip, turn to side)
@@ -18,10 +20,11 @@
 #### While on Top
  - Defensive Posture/Open Legs
  - Stacking Pass
+
 #### While on Bottom
  - Break Opponents Posture w/Knees
  - Cross Lapel Choke
-
+ 
 ### STANDING
  - Stand Up In Base
  - Hip Throw
