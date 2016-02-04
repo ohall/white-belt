@@ -1,6 +1,6 @@
 # Third Stripe
 ### MOUNT
-__While on Top__
+#### While on Top
  - Spinning Armlock (don't sit back until leg is over head!)
  - Sleeve Choke
 __Rear Mount__
@@ -9,13 +9,13 @@ __While on Bottom__
  - Combination of Upa and Elbow Escape
 
 ### SIDE CONTROL
-__While on Top__
+#### While on Top
  - Movement to Knee On Belly (and straight to mount)
  - 180 Degree Armlock from Knee on Belly
  - Loop Leg Over to Mount
 
 ### GUARD 
-__While on Top__
+#### While on Top
  - Pinning Leg Pass When Legs are Open
 __While on Bottom__
  - Closed Guard Kimura
