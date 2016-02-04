@@ -4,12 +4,14 @@
  - Demonstrate 2 Combinations to Submissions (example: Lapel Choke to Spinning Armlock)
  - Triple Thread Position w/Choke, Armlock and Take Back
  - Taking Back from Turtle Position (Marcelo Garcia Grip)
+
 #### While on Bottom
  - Defend and Escape from Rear Mount
 
 ### SIDE CONTROL
 #### While on Top
  - Kimura
+
 #### While on Bottom
  - Escape from "North South"
  - Escape from Knee on Belly
@@ -17,6 +19,7 @@
 ### GUARD & HALF GUARD
 #### While on Top
  - Half Guard Pass (flatten opponent > upper body control > show knee > escape leg)
+
 #### While on Bottom
  - Half Guard Defense (turn to side, keep far arm tight to body, protect head)
  - Spider Guard to Defend Pass Make Triangle and Superman Sweep
