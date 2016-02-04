@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "home": "node node_modules/markdown-to-html/bin/markdown README.md > index.html",
     "first": "node node_modules/markdown-to-html/bin/markdown first.md > first.html",
-    "second": "node node_modules/markdown-to-html/bin/markdown first.md > second.html",
-    "third": "node node_modules/markdown-to-html/bin/markdown first.md > third.html",
-    "fourth": "node node_modules/markdown-to-html/bin/markdown first.md > fourth.html",
+    "second": "node node_modules/markdown-to-html/bin/markdown second.md > second.html",
+    "third": "node node_modules/markdown-to-html/bin/markdown third.md > third.html",
+    "fourth": "node node_modules/markdown-to-html/bin/markdown fourth.md > fourth.html",
     "parse": "npm run home; npm run first; npm run second; npm run third; npm run fourth;"
   },
   "repository": {
