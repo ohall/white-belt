@@ -1,6 +1,6 @@
 # Second Stripe
 ### MOUNT
-__While on Top__
+#### While on Top
  - Defend Mount (Swimming hands, hooking head... etc)
  - Sleeve Choke
  - Key Lock Submission
@@ -9,14 +9,14 @@ __While on Bottom__
 
 
 ### SIDE CONTROL
-__While on Top__
+#### While on Top
  - Positions 3 and 4 (stay TIGHT and HEAVY) w/basic "Paper Cutter" Lapel Choke Submission
 __While on Bottom__
  - Belly Down Escape (don't give up your back!)
 
 
 ### GUARD
-__While on Top__
+#### While on Top
  - Knee up defense to avoid closed guard
  - Knee Across Pass
 __While on Bottom__

@@ -1,13 +1,13 @@
 # First Stripe
 ### MOUNT
-__While on Top__
+#### While on Top
  - Vale Tudo Mount (Street fight, NHB Scenario)
 __While on Bottom__
  - Defense Posture (elbows on knees, head glued to floor, hands in "praying" position)
  - Upa Escape
 
 ### SIDE CONTROL 
-__While on Top__
+#### While on Top
  - Position 1 and 2 w/ Key Lock Submission
  - Body Weight Drill 
 __While on Bottom__
@@ -15,7 +15,7 @@ __While on Bottom__
  - Elbow Knee Escape (bump hip, turn to side)
 
 ### GUARD
-__While on Top__
+#### While on Top
  - Defensive Posture/Open Legs
  - Stacking Pass
 __While on Bottom__
