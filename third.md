@@ -3,7 +3,8 @@
 #### While on Top
  - Spinning Armlock (don't sit back until leg is over head!)
  - Sleeve Choke
-__Rear Mount__
+
+#### Rear Mount
  - Basic Label Choke from Rear Mount
 
 #### While on Bottom
