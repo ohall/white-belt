@@ -13,7 +13,7 @@
  - Body Weight Drill 
 
 #### While on Bottom
- - Defense Posture (elbow on flooe on opponent side protecting head, far arm tight to body, "Sensitive" knee)
+ - Defense Posture (elbow on floor on opponent side protecting head, far arm tight to body, "Sensitive" knee)
  - Elbow Knee Escape (bump hip, turn to side)
 
 ### GUARD
